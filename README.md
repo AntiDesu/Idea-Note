@@ -1,1 +1,1 @@
-<center><h1>アイデアノート</h1></center>
+<h1 align="center">アイデアノート</h1>
